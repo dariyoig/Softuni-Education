@@ -1,2 +1,2 @@
 # Softuni-Education
- This is a repository with all the coding exercises I do while studying,
+ This is a repository with every module and course I have taken in Softuni Academy, as well as the exercises I've done for each lecture.

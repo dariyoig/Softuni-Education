@@ -2,9 +2,9 @@ function solve([number]) {
     number = Number(number);
 
     if (number % 2 === 0) {
-        console.log('Even');
+        console.log('even');
     }else {
-        console.log('Odd');
+        console.log('odd');
     }
     
 }

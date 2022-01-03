@@ -1,5 +1,5 @@
 function solve([arg1]) {
-    
+
     switch (arg1) {
         case "crocodile":
         case "tortoise":

@@ -16,7 +16,7 @@ function solve([arg1, arg2, arg3]) {
             break;
         case "Narcissus": price = flowerQuantity * 3;
             if (flowerQuantity < 120) price += price * 0.15;;
-            break;
+            break; 
         case "Gladiolus": price = flowerQuantity * 2.5;
             if (flowerQuantity < 80) price += price * 0.20;
             break;
